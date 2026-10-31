@@ -2,7 +2,7 @@
 
 **Senior Frontend Engineer** | React.js · Next.js · TypeScript · JavaScript
 
-I build secure, scalable and performant web applications. Currently at FinSource Limited (Dhaka, Bangladesh), working on a financial trust and custody platform. Previously led a team of 6-7 frontend engineers at TechVillage. Open to remote and relocation opportunities.
+I build secure, scalable and performant web applications. Currently at FinSource Limited (Dhaka, Bangladesh), working on a financial trust and custody platform. Previously led a team of 6-7 frontend engineers at TechVillage.
 
 ## Tech stack
 
